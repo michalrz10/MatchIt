@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MatchIt</string>
+    <string name="instruction">Instrukcja:\nJesteś magiem. Twoim zadaniem jest jak najdłuższe odpieranie ataków wrogów. Możesz to zrobić poprzez robienie akcji napisanych nad głowami wrogów.</string>
+    <string name="about">Aplikacja stworzona przez studenta Pwr\nMichała Rzepkę</string>
+</resources>
